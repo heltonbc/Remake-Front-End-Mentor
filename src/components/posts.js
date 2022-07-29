@@ -5,7 +5,7 @@ import img6 from "./folder-projects/img6.jpg";
 const posts = [
     {
         id: 1,
-        image: "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/nk8qjduersia3vcgn6br.jpg",
+        image: "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/lftjtn81b7brs2icc898.jpg",
         title: "1 - NEWBIE",
         excerpt:
             "Product preview card component (HTML, CSS) This HTML & CSS-only challenge will be perfect for anyone starting to build responsive projects.",
