@@ -1,3 +1,44 @@
 .text {
-    background-color: aqua;
+    background-color: #dc3545;
+    color: white !important;
+}
+
+.hero {
+    background-size: cover;
+    background-position: center top;
+    border-radius: 0;
+    height: 600px;
+}
+
+.bg-home {
+    background-image: url(https://drive.google.com/file/d/1D8_Y63M1oOjzH3sTSE8szGSOxc_zud4G/view?usp=sharing);
+}
+
+.home-title {
+    color: rgb(62, 84, 163);
+    font-size: 1.8rem;
+    line-height: 1.3;
+}
+
+.home-text {
+    width: 85%;
+    margin-bottom: 1rem;
+    font-size: 1rem;
+}
+
+.home-card1 {
+    border: none !important;
+}
+
+.btn-home {
+    border: 1px solid rgb(36, 41, 46);
+    border-radius: 10rem;
+    padding: 0.3rem 3rem;
+    background-color: rgb(237, 44, 73);
+    color: #fff;
+    font-size: 1rem;
+    text-decoration: none;
+    backface-visibility: hidden;
+    transition: transform 0.3s ease 0s;
+    white-space: nowrap;
 }
