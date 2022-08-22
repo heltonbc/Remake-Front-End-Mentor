@@ -1,6 +1,5 @@
 import React from "react";
 import "../App.scss";
-import Carousel from "react-bootstrap/Carousel";
 import "./Home.scss";
 import home from "./folder-projects/home.jpg";
 import { Button, Card, CardGroup, Col, Row } from "react-bootstrap";
