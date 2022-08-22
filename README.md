@@ -21,13 +21,13 @@ O projeto foi hospedado em:
 
 ## How to work with the repository / Como trabalhar com o repositório
 
-### Clone the project / Clone o projeto
+## Clone the project / Clone o projeto
 
 ```
 git clone [http://github.com/brucecantarim/studion.git](https://github.com/heltonbc/Remake-Front-End-Mentor.git)
 ```
 
-### Install the project dependencies / Instalar as dependências do projeto
+## Install the project dependencies / Instalar as dependências do projeto
 
 ```
 yarn
@@ -35,12 +35,12 @@ yarn add sass
 yarn add bootstrap react-bootstrap
 ```
 
-### Start the project / Iniciar o projeto
+## Start the project / Iniciar o projeto
 
 ```
 yarn start
 ```
 
-### Questions? / Perguntas
+## Questions? / Perguntas
 
 Send me an email at [heltondeveloper01@gmail.com](mailto:heltondeveloper01@gmail.com)
