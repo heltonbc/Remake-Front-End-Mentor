@@ -24,7 +24,7 @@ O projeto foi hospedado em:
 ## Clone the project / Clone o projeto
 
 ```
-git clone [http://github.com/brucecantarim/studion.git](https://github.com/heltonbc/Remake-Front-End-Mentor.git)
+git clone [https://github.com/heltonbc/Remake-Front-End-Mentor.git](https://github.com/heltonbc/Remake-Front-End-Mentor.git)
 ```
 
 ## Install the project dependencies / Instalar as dependências do projeto
